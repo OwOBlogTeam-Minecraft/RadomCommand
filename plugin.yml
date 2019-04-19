@@ -1,0 +1,16 @@
+name: RadomCommand
+main: RadomCommand\Main
+version: 1.0.3
+api:
+ - 1.0.0
+ - 2.0.0
+ - 3.0.0
+ - 3.0.0-ALPHA10
+ - 3.0.0-ALPHA11
+ - 3.0.0-ALPHA12
+ - 3.0.0-ALPHA13
+ - 3.0.0-ALPHA14
+ - 3.0.0-ALPHA15
+ - 3.0.1
+author: Teaclon
+load: POSTWORLD
